@@ -38,7 +38,6 @@ module.exports = {
   },
   rules: {
     ...unicornRules,
-    ...importRules,
-    'no-console': 'error'
+    ...importRules
   }
 }
