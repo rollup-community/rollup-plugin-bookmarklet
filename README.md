@@ -6,21 +6,17 @@
 Rollup plugin for bookmarklet.
 It adds `javascript:` prefix to code.
 
-## Usage
-
-### Install package
-
-Install `rollup-plugin-bookmarklet`.
+## Installation
 
 ```sh
 npm i -D rollup-plugin-bookmarklet
 ```
 
-### Use in Rollup config
+## Usage
 
 Use `rollup-plugin-bookmarklet` in Rollup config.
 
-#### JavaScript
+### JavaScript
 
 `rollup.config.js`:
 
@@ -41,7 +37,7 @@ export default {
 }
 ```
 
-#### TypeScript
+### TypeScript
 
 `rollup.config.ts`:
 
