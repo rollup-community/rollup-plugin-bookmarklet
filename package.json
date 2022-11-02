@@ -9,6 +9,7 @@
     "index.js",
     "index.d.ts"
   ],
+  "main": "index.js",
   "engines": {
     "node": ">=14"
   },
