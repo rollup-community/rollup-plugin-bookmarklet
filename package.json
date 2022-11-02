@@ -1,0 +1,54 @@
+{
+  "name": "rollup-plugin-bookmarklet",
+  "version": "0.1.0",
+  "description": "Rollup plugin for bookmarklet",
+  "scripts": {
+    "lint": "eslint '**/*.{js,ts}'"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts",
+  "engines": {
+    "node": ">=14"
+  },
+  "peerDependencies": {
+    "rollup": "^2.0.0"
+  },
+  "devDependencies": {
+    "@eslint-recommended/eslint-config-typescript": "1.3.0",
+    "@rollupjs/eslint-config-typescript": "0.1.0",
+    "@tsconfig/node14": "1.0.3",
+    "@types/node": "14.18.33",
+    "@typescript-eslint/eslint-plugin": "5.42.0",
+    "eslint": "8.26.0",
+    "eslint-config-standard-with-typescript": "23.0.0",
+    "eslint-plugin-eslint-comments": "3.2.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-import-newlines": "1.2.3",
+    "eslint-plugin-jsdoc": "39.5.0",
+    "eslint-plugin-n": "15.4.0",
+    "eslint-plugin-promise": "6.1.1",
+    "eslint-plugin-tsdoc": "0.2.17",
+    "eslint-plugin-unicorn": "44.0.2",
+    "rollup": "2.0.0",
+    "typescript": "4.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollup-community/rollup-plugin-bookmarklet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rollup-community/rollup-plugin-bookmarklet/issues"
+  },
+  "homepage": "https://github.com/rollup-community/rollup-plugin-bookmarklet",
+  "license": "MIT",
+  "keywords": [
+    "rollup",
+    "plugin",
+    "rollup-plugin",
+    "bookmarklet"
+  ]
+}
