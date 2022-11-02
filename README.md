@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/rollup-plugin-bookmarklet.svg)](https://badge.fury.io/js/rollup-plugin-bookmarklet)
+[![lint](https://github.com/rollup-community/rollup-plugin-bookmarklet/actions/workflows/lint.yml/badge.svg)](https://github.com/rollup-community/rollup-plugin-bookmarklet/actions/workflows/lint.yml)
+
 # rollup-plugin-bookmarklet
 
 Rollup plugin for bookmarklet.
