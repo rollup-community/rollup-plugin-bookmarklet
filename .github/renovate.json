@@ -1,6 +1,6 @@
 {
   "extends": [
     "github>rollup-community/renovate-config"
-  ]
-  "labels": ["renovate"],
+  ],
+  "labels": ["renovate"]
 }
