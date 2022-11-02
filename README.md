@@ -1,7 +1,7 @@
 # rollup-plugin-bookmarklet
 
 Rollup plugin for bookmarklet.
-It adds `javascript:` prefix to code on renderChunk hook.
+It adds `javascript:` prefix to code.
 
 ## Usage
 
