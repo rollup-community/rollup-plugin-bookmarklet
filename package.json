@@ -15,7 +15,7 @@
     "node": ">=14"
   },
   "peerDependencies": {
-    "rollup": "^2.0.0"
+    "rollup": "^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
     "@eslint-recommended/eslint-config-typescript": "1.3.0",
