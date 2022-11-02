@@ -10,7 +10,7 @@
  * @returns {Plugin} plugin
  * @see https://en.wikipedia.org/wiki/Bookmarklet
  */
-export default function bookmarklet () {
+module.exports = function bookmarklet () {
   return {
     name: 'bookmarklet',
     renderChunk: (code) => {
