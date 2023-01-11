@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-bookmarklet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rollup plugin for bookmarklet",
   "scripts": {
     "lint": "eslint '**/*.{js,ts}'"
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@eslint-recommended/eslint-config-typescript": "3.0.0",
-    "@rollupjs/eslint-config-typescript": "2.0.0",
+    "@rollupjs/eslint-config-typescript": "3.0.0",
     "@tsconfig/node14": "1.0.3",
     "@types/node": "14.18.36",
     "@typescript-eslint/eslint-plugin": "5.48.1",
