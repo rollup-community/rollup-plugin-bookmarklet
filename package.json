@@ -12,16 +12,16 @@
   "main": "index.js",
   "types": "index.d.ts",
   "engines": {
-    "node": ">=14"
+    "node": ">=16"
   },
   "peerDependencies": {
     "rollup": "^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
-    "@eslint-recommended/eslint-config-typescript": "12.0.0",
-    "@rollupjs/eslint-config-typescript": "12.0.0",
+    "@eslint-recommended/eslint-config-typescript": "14.0.0",
+    "@rollupjs/eslint-config-typescript": "13.0.0",
     "@tsconfig/node14": "1.0.3",
-    "@types/node": "14.18.36",
+    "@types/node": "16.18.12",
     "@typescript-eslint/eslint-plugin": "5.51.0",
     "eslint": "8.33.0",
     "eslint-config-standard-with-typescript": "34.0.0",
