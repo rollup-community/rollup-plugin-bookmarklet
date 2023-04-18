@@ -22,7 +22,7 @@
     "@tsconfig/node14": "1.0.3",
     "@types/node": "16.18.23",
     "eslint": "8.38.0",
-    "rollup": "3.20.5",
+    "rollup": "3.20.6",
     "typescript": "5.0.4"
   },
   "repository": {
