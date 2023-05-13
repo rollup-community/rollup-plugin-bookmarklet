@@ -6,7 +6,6 @@
 /**
  * Rollup plugin for bookmarklet.
  * It adds `javascript:` prefix to code.
- *
  * @returns {Plugin} plugin
  * @see https://en.wikipedia.org/wiki/Bookmarklet
  */
