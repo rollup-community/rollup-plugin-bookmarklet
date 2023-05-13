@@ -8,8 +8,16 @@ It adds `javascript:` prefix to code.
 
 ## Installation
 
+npm:
+
 ```sh
 npm i -D rollup-plugin-bookmarklet
+```
+
+Yarn:
+
+```sh
+yarn add -D rollup-plugin-bookmarklet
 ```
 
 ## Usage
