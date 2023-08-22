@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@rollupjs/eslint-config-typescript": "24.0.0",
-    "@tsconfig/node18": "18.2.0",
+    "@tsconfig/node18": "18.2.1",
     "@types/node": "18.16.20",
     "eslint": "8.47.0",
     "rollup": "3.28.0",
