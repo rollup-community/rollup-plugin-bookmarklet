@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-bookmarklet",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Rollup plugin for bookmarklet",
   "scripts": {
     "lint": "eslint '**/*.{js,ts}'"
