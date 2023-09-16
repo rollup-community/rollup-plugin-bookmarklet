@@ -9,7 +9,7 @@
  */
 const config = {
   extends: [
-    '@rollupjs/eslint-config-typescript'
+    '@munierujp/eslint-config-typescript'
   ],
   parserOptions: {
     project: './tsconfig.json'
