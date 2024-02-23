@@ -21,7 +21,7 @@
     "@munierujp/eslint-config-typescript": "29.0.1",
     "@tsconfig/node18": "18.2.2",
     "@types/node": "18.16.20",
-    "eslint": "8.56.0",
+    "eslint": "8.57.0",
     "rollup": "4.12.0",
     "typescript": "5.3.3"
   },
