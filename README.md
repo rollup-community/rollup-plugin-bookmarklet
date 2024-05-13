@@ -6,6 +6,11 @@
 Rollup plugin for bookmarklet.
 It adds `javascript:` prefix to code.
 
+## Requirements
+
+- Node.js v18 or later
+- Rollup v2/v3/v4
+
 ## Installation
 
 npm:
