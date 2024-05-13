@@ -4,7 +4,7 @@
   "description": "Rollup plugin for bookmarklet",
   "type": "module",
   "scripts": {
-    "lint": "eslint '**/*.{js,ts}'"
+    "lint": "eslint '**/*.{js,cjs,mjs,ts,cts,mts}'"
   },
   "files": [
     "index.js",
