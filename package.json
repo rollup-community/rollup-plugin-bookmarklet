@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-bookmarklet",
-  "version": "5.0.9",
+  "version": "5.0.10",
   "description": "Rollup plugin for bookmarklet",
   "type": "module",
   "scripts": {
