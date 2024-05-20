@@ -25,15 +25,19 @@ Yarn:
 yarn add -D rollup-plugin-bookmarklet
 ```
 
+pnpm:
+
+```sh
+pnpm add -D rollup-plugin-bookmarklet
+```
+
 ## Usage
 
 Use `rollup-plugin-bookmarklet` in Rollup config.
 
-### JavaScript
+JavaScript:
 
-`rollup.config.js`:
-
-```ts
+```javascript
 import terser from '@rollup/plugin-terser'
 import bookmarklet from 'rollup-plugin-bookmarklet'
 
@@ -50,11 +54,9 @@ export default {
 }
 ```
 
-### TypeScript
+TypeScript:
 
-`rollup.config.ts`:
-
-```ts
+```typescript
 import terser from '@rollup/plugin-terser'
 import typescript from '@rollup/plugin-typescript'
 import type { RollupOptions } from 'rollup'
