@@ -3,7 +3,7 @@
   "version": "5.0.12",
   "description": "Rollup plugin for bookmarklet",
   "scripts": {
-    "lint": "eslint '**/*.{js,ts}'"
+    "lint": "eslint --ignore-path .gitignore '**/*.{js,cjs,mjs,ts,cts,mts}'"
   },
   "files": [
     "index.js",
