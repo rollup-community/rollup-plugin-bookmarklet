@@ -20,7 +20,7 @@
   "devDependencies": {
     "@munierujp/eslint-config-typescript": "47.1.1",
     "@tsconfig/node18": "18.2.4",
-    "@types/node": "18.16.20",
+    "@types/node": "20.14.14",
     "eslint": "8.57.0",
     "rollup": "4.19.0",
     "typescript": "5.5.4"
