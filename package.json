@@ -23,7 +23,7 @@
     "@types/node": "18.16.20",
     "eslint": "8.57.1",
     "rollup": "4.57.1",
-    "typescript": "5.9.3"
+    "typescript": "6.0.2"
   },
   "repository": {
     "type": "git",
